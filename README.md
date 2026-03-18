@@ -11,6 +11,6 @@
 - 记录我的思考：[blog.jask.dev](https://blog.jask.dev)
 - 区块链周志：[链周志](https://weekly.jask.dev)
 - Substack：[Onchaindiary](https://onchaindiary.substack.com/)
-- 链上日记: [[https://theonchaindiary.com]]
+- 链上日记: [https://theonchaindiary.com]
 
 > Web3 is a dark forest. Stay vigilant and passionate
