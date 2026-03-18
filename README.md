@@ -13,7 +13,7 @@
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jask_don?style=social)](https://x.com/jask_don)
 [![Profile](https://img.shields.io/badge/Profile-jask.dev-2962FF?logo=hashnode&logoColor=white)](https://jask.dev)
-[![Email](https://img.shields.io/badge/Email-hi%40jask.dev-2962FF?logo=minutemailer&logoColor=white)](mailto:hi@jask.dev)
+[![Email](https://img.shields.io/badge/Email-hi%40jask.dev-orange?logo=minutemailer&logoColor=red)](mailto:hi@jask.dev)
 
 ### Where I Write
 
