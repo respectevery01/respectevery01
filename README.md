@@ -1,19 +1,29 @@
-# 👋Hi I'm Jask 
+# 👋 Hi, I'm Jask
 
-**很多人通过区块链认识我，但我希望自己不止于此。**
+**Many people know me from blockchain, but I hope to be more than that.**
 
-- 🔭 曾参与 `TEN Protocol` 中文社区 & `Altius Labs` 大使计划
-- 🌱 关注方向：链上隐私、Layer 2、机密计算
-- 🛠️ 最近在捣鼓：[Marklog](https://marklog.xyz) —— 把 GitHub 仓库变成博客的小工具
-- 如果你也对Web3和AI感兴趣，可以X私信或者给我发邮件
-## Link
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jask_don)](https://x.com/jask_don) [![Profile](https://img.shields.io/badge/Profile-jask.dev-blue?logo=hashnode)](https://jask.dev) [![email](https://img.shields.io/badge/Email-hi%40jask.dev-red?logo=minutemailer)](mailto:hi@jask.dev)
+- 🔭 Previously: `TEN Protocol` Chinese Community Moderator & `Altius Labs` Ambassador
+- 🌱 Currently interested in: On-chain Privacy, Layer 2, Confidential Computing
+- 🛠️ Building: [Marklog](https://marklog.xyz) —— Turn any GitHub repo into a blog
+- 💬 If you're into Web3 or AI, feel free to DM me on X or send an email
 
-- 记录我的思考：[blog.jask.dev](https://blog.jask.dev)
-- 区块链周志：[链周志](https://weekly.jask.dev)
-- Substack：[Onchaindiary](https://onchaindiary.substack.com/)
-- 链上日记: https://theonchaindiary.com
+---
 
-更多信息请访问我的[个人主页](https://jask.dev)或[博客](https://blog.jask.dev)
+### 🔗 Links
 
-> Web3 is a dark forest. Stay vigilant and passionate
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jask_don?style=social)](https://x.com/jask_don)
+[![Profile](https://img.shields.io/badge/Profile-jask.dev-2962FF?logo=hashnode&logoColor=white)](https://jask.dev)
+[![Email](https://img.shields.io/badge/Email-hi%40jask.dev-2962FF?logo=minutemailer&logoColor=white)](mailto:hi@jask.dev)
+
+### 📝 Where I Write
+
+- ✍️ Personal thoughts & reflections: [blog.jask.dev](https://blog.jask.dev)
+- 📊 Blockchain weekly: [Chain Weekly](https://weekly.jask.dev)
+- 📚 Translated articles: [Onchaindiary on Substack](https://onchaindiary.substack.com)
+- 🔗 On-chain diary: [theonchaindiary.com](https://theonchaindiary.com)
+
+More on my [personal site](https://jask.dev) or [blog](https://blog.jask.dev)
+
+---
+
+> Web3 is a dark forest. Stay vigilant and passionate.
