@@ -6,6 +6,9 @@
 - 🌱 关注方向：链上隐私、Layer 2、机密计算
 - 🛠️ 最近在捣鼓：[Marklog](https://marklog.xyz) —— 把 GitHub 仓库变成博客的小工具
 ## Link
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jask_don)](https://x.com/jask_don) [![Blog](https://img.shields.io/badge/Blog-jask.dev-blue?logo=hashnode)](https://blog.jask.dev) [![email](https://img.shields.io/badge/Email-hi%40jask.dev-red?logo=minutemailer)](mailto:hi@jask.dev)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/jask_don)](https://x.com/jask_don) [![Profile](https://img.shields.io/badge/Profile-jask.dev-blue?logo=hashnode)](https://jask.dev) [![email](https://img.shields.io/badge/Email-hi%40jask.dev-red?logo=minutemailer)](mailto:hi@jask.dev)
+
+- 记录我的思考：[blog.jask.dev](https://blog.jask.dev)
+- 区块链周志：[链周志](https://weekly.jask.dev)
 
 > Web3 is a dark forest. Stay vigilant and passionate
