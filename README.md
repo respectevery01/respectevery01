@@ -23,7 +23,7 @@ Web3 security and AI — usually alone, always with an AI teammate.
 
 ### Research
 
-FHE / TEE / on-chain anti-fraud. Previously: TEN Protocol Chinese Community
+On-chain anti-fraud. Previously: TEN Protocol Chinese Community
 Moderator & Altius Labs Ambassador.
 
 ---
