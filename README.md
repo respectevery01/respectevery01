@@ -2,29 +2,34 @@
 
 *Many know me from blockchain, but I hope to be more than that.*
 
-Independent researcher & developer. I build things at the intersection of
-Web3 security and AI — usually alone, always with an AI teammate.
+Independent researcher & developer. Building multiple products alone —
+always with an AI teammate.
 
 ---
 
 ### Building
 
-- **[Echoir](https://echoir.xyz)** — AI-powered divination platform (tarot, bazi, dream interpretation)
 - **[ZensInk](https://zens.ink)** — SEO workflow tools for indie builders
-- **[Valdos](https://valdos.xyz)** — Website trust audit tool
-- **[Onchain Diary](https://theonchaindiary.com)** — On-chain risk intelligence API
+- **[LiteInk](https://liteink.co)** — Astro themes & open-source CMS
+- **[Who Died](https://whodied.xyz)** — Tracking funding, shutdowns and survival in tech
+- **[Urgenth](https://urgenth.com)** — HS code classification for cross-border sellers
 - **[Chain Weekly](https://weekly.jask.dev)** — Weekly Web3 deep dives
+
+*Previously: Echoir (AI divination) & Valdos (website trust audit) — archived but still online.*
 
 ### Open Source
 
 - **[zens-ink](https://github.com/respectevery01/zens-ink-seo-package)** — Free SEO keyword research toolkit (zero dependencies)
+- **[Marklog](https://github.com/respectevery01/marklog)** — Turn any GitHub repo into a clean, fast blog
 - **[@messo/cli](https://github.com/respectevery01/messo)** — Email infrastructure for AI agents
-- **[astro-uzen-theme](https://github.com/respectevery01/astro-uzen-theme)** — Minimal Astro blog theme
+- **[margin](https://github.com/Liteink/margin)** — Agent-native Astro blog theme
+- **[ink-cms](https://github.com/Liteink/ink-cms)** — Open-source, API-based CMS
 
 ### Research
 
-On-chain anti-fraud. Previously: TEN Protocol Chinese Community
-Moderator & Altius Labs Ambassador.
+On-chain anti-fraud & Web3 security education — writing at
+[Onchain Diary](https://theonchaindiary.com). Previously: TEN Protocol
+Chinese Community Moderator & Altius Labs Ambassador.
 
 ---
 
