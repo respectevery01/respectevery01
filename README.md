@@ -28,8 +28,8 @@ always with an AI teammate.
 ### Research
 
 On-chain anti-fraud & Web3 security education — writing at
-[Onchain Diary](https://theonchaindiary.com). Previously: TEN Protocol
-Chinese Community Moderator & Altius Labs Ambassador.
+[Onchain Diary](https://theonchaindiary.com). Previously: [TEN Protocol](https://ten.xyz)
+Chinese Community Moderator & [Altius Labs](https://altiuslabs.xyz) Ambassador.
 
 ---
 
