@@ -36,5 +36,6 @@ Chinese Community Moderator & [Altius Labs](https://altiuslabs.xyz) Ambassador.
 [![X](https://img.shields.io/badge/@jask_don-000?logo=x&logoColor=white)](https://x.com/jask_don)
 [![jask.dev](https://img.shields.io/badge/jask.dev-2962FF?logo=hashnode&logoColor=white)](https://jask.dev)
 [![blog](https://img.shields.io/badge/blog.jask.dev-FF7139?logo=rss&logoColor=white)](https://blog.jask.dev)
+[![uzenlabs.com](https://img.shields.io/badge/uzenlabs.com-18181B?logo=firefoxbrowser&logoColor=white)](https://uzenlabs.com)
 
 > Web3 is a dark forest. Stay vigilant.
