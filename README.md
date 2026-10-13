@@ -14,13 +14,12 @@ always with an AI teammate.
 - **[Urgenth](https://urgenth.com)** — HS code classification for cross-border sellers
 - **[Chain Weekly](https://weekly.jask.dev)** — Weekly Web3 deep dives
 
-*Previously: Echoir (AI divination) & Valdos (website trust audit) — archived but still online.*
+*Previously: Echoir (AI divination) — archived but still online. Valdos is now a personal fiction site.*
 
 ### Open Source
 
-- **[zens-ink](https://github.com/respectevery01/zens-ink-seo-package)** — Free SEO keyword research toolkit (zero dependencies)
+- **[zens-ink](https://github.com/ZensInk/zens-ink-seo-package)** — Free SEO keyword research toolkit (zero dependencies)
 - **[Marklog](https://github.com/respectevery01/marklog)** — Turn any GitHub repo into a clean, fast blog
-- **[@messo/cli](https://github.com/respectevery01/messo)** — Email infrastructure for AI agents
 - **[margin](https://github.com/Liteink/margin)** — Agent-native Astro blog theme
 - **[ink-cms](https://github.com/Liteink/ink-cms)** — Open-source, API-based CMS
 
