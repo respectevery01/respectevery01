@@ -11,7 +11,6 @@ always with an AI teammate.
 
 - **[ZensInk](https://zens.ink)** — SEO workflow tools for indie builders
 - **[LiteInk](https://liteink.co)** — Astro themes & open-source CMS
-- **[Who Died](https://whodied.2849288402.workers.dev)** — Tracking funding, shutdowns and survival in tech
 - **[Urgenth](https://urgenth.com)** — HS code classification for cross-border sellers
 - **[Chain Weekly](https://weekly.jask.dev)** — Weekly Web3 deep dives
 
